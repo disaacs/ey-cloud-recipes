@@ -1,5 +1,5 @@
 # Add your required timezone name here:
-timezone = "UTC"
+timezone = "EST5EDT"
 
 
 service "vixie-cron"
